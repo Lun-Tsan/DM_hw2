@@ -1,0 +1,12 @@
+numpy==1.21.6
+torch 
+torchvision 
+torchaudio
+tensorboard
+stable-baselines3==2.4.0
+pettingzoo
+ray[rllib]
+matplotlib
+gym
+Gymnasium
+shimmy>=2.0
